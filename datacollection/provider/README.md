@@ -1,1 +1,0 @@
-Data fetched by modules in `datacollection` should only be read by modules not in `datacollection` via modules in this folder.
